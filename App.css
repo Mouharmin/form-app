@@ -1,0 +1,15 @@
+.wrapper {
+  padding: 5px 20px;
+  min-width: 100%;
+    height: 100vh;
+    /* border: dotted #e20707 6vw; */
+    /* border: 1px solid red; */
+    margin: 0vw;
+    padding: 5vw ;
+    position:relative; 
+    /* position:relative for .prevBtn and .nextBtn position:absolute; */
+}
+
+.wrapper fieldset {
+  margin: 20px 0;
+}
